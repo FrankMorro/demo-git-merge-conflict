@@ -1,4 +1,8 @@
-Hola mundo de Piruleta
+Hola mundo de fresa
 adios Venus
 
+linea1
+linea
+
+linea1
 lineaY
