@@ -1,5 +1,5 @@
-Hola mundo de Caramelo
+Hola mundo de Piruleta
 adios Venus
 
-lineaX
+linea1
 lineaY
