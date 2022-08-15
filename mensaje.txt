@@ -1,5 +1,5 @@
-Hola mundo Bonito
-adios Marte
+Hola mundo de Piruleta
+adios Venus
 
 linea1
 linea2
