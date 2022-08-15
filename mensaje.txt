@@ -1,8 +1,5 @@
-Hola mundo de Piruleta
-adios Venus
+Hola mundo 
 
-linea1
-linea2
 
 linea10
 linea20
