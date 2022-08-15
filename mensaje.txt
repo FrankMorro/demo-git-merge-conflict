@@ -1,5 +1,4 @@
-Hola mundo
+Hola mundo de Piruleta
 adios Venus
 
-lineaZ
 lineaY
